@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Mendoza</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-Once I was the invisible one, from whom nothing is expected, the one who could exist or not and wouldn't affect anyone or anything. In invisibility, I once asked myself, "What is needed to evolve?" I made peace with myself for not having a single answer because evolving, to me, means technology... Creating, sharing, learning, and transmitting technology. I could do it all day, every day, and all the time, at any hour. My name is Carlos Mendoza, and I'm a Software Engineer. My leadership style is doing what I'm passionate about: developing software and solving complex problems using technology to achieve it. Nowadays my current stack is react, node.js, mongoDB, and express.
+I'm a Software Engineer. My leadership style is doing what I'm passionate about: developing software and solving complex problems using technology to achieve it. Nowadays my current stack is React, Node.js, MongoDB, and Express, geek since 15 years old, I'm from the old school that started with flash and now with JS in everything.
 
 ![Win](https://firebasestorage.googleapis.com/v0/b/carlosmendoza-reloadercf.appspot.com/o/IMG-20160824-WA0024.jpg?alt=media&token=26400617-037a-41d5-8f31-818d4c0e58bd)
 
